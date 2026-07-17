@@ -287,8 +287,8 @@
 
     // ── guarda de sessão ──
     const session = JSON.parse(sessionStorage.getItem('area_auth') || 'null');
-    if (!session || !session.ok || Date.now() >= session.expires) window.location.href = '/';
-    function logout(){ sessionStorage.removeItem('area_auth'); window.location.href = '/'; }
+    if (!session || !session.ok || Date.now() >= session.expires) window.location.href = '../';
+    function logout(){ sessionStorage.removeItem('area_auth'); window.location.href = '../'; }
 
     // ══════════════════════════════════════════════════════════════
     //  LISTA DE MATERIAIS — pra adicionar material novo, é só copiar

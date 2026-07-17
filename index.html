@@ -117,7 +117,7 @@
       if (pw === ACCESS_PASSWORD) {
         const expires = Date.now() + 24*60*60*1000;
         sessionStorage.setItem('area_auth', JSON.stringify({ ok:true, expires }));
-        window.location.href = '/area/';
+        window.location.href = 'area/';
       } else {
         err.classList.add('show');
         document.getElementById('pw').value = '';
@@ -135,7 +135,7 @@
     }
     document.getElementById('pw').addEventListener('keydown', e => { if (e.key === 'Enter') doLogin(); });
     const session = JSON.parse(sessionStorage.getItem('area_auth') || 'null');
-    if (session && session.ok && Date.now() < session.expires) window.location.href = '/area/';
+    if (session && session.ok && Date.now() < session.expires) window.location.href = 'area/';
   </script>
 </body>
 </html>
