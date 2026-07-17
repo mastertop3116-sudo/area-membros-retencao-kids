@@ -1,0 +1,52 @@
+[
+ {
+  "titulo": "50 Mensagens de WhatsApp para Pais",
+  "desc": "Mensagens prontas para manter os pais engajados e presentes.",
+  "icone": "💬",
+  "categoria": "Ferramentas de Retenção",
+  "cor": "blue",
+  "badge": "Ferramenta",
+  "storage_path": "clinic-ccec725b-0fcb-4e13-b287-a5678f44e7d3/courses/30e9cae7-fb41-4c22-b758-03381c9d44e0/a6169d89-58a1-4936-98db-341dad4e4d14/01-mensagens-whatsapp.pdf",
+  "id": "1RaHk3j-m_Lf4URXDxVeIK6BYfisq1_cP"
+ },
+ {
+  "titulo": "Caderneta do Pequeno Guerreiro",
+  "desc": "Caderneta de acompanhamento que encanta a criança e os pais.",
+  "icone": "📔",
+  "categoria": "Ferramentas de Retenção",
+  "cor": "blue",
+  "badge": "Ferramenta",
+  "storage_path": "clinic-ccec725b-0fcb-4e13-b287-a5678f44e7d3/courses/30e9cae7-fb41-4c22-b758-03381c9d44e0/a6169d89-58a1-4936-98db-341dad4e4d14/02-caderneta-pequeno-guerreiro.pdf",
+  "id": "1ADU8E02ILt1nV0NfbfH39bwd6SFlH1KG"
+ },
+ {
+  "titulo": "Protocolo dos 90 Dias",
+  "desc": "O passo a passo para reter o aluno nos primeiros 90 dias, o período crítico.",
+  "icone": "📅",
+  "categoria": "Ferramentas de Retenção",
+  "cor": "blue",
+  "badge": "Ferramenta",
+  "storage_path": "clinic-ccec725b-0fcb-4e13-b287-a5678f44e7d3/courses/30e9cae7-fb41-4c22-b758-03381c9d44e0/a6169d89-58a1-4936-98db-341dad4e4d14/03-protocolo-90-dias.pdf",
+  "id": "1iV7Y-C-60kcJEcwqDFV07pMX5hg04g76"
+ },
+ {
+  "titulo": "Kit de Conquistas",
+  "desc": "Certificados e conquistas para reconhecer e motivar as crianças.",
+  "icone": "🏅",
+  "categoria": "Reconhecimento",
+  "cor": "gold",
+  "badge": "Bônus",
+  "storage_path": "clinic-ccec725b-0fcb-4e13-b287-a5678f44e7d3/courses/30e9cae7-fb41-4c22-b758-03381c9d44e0/a6169d89-58a1-4936-98db-341dad4e4d14/04-kit-conquistas.pdf",
+  "id": "1mBKJ_LAGx8frUNo-Loti6nOFB1Z5DJAa"
+ },
+ {
+  "titulo": "Carta de Boas-Vindas para Pais",
+  "desc": "Uma primeira impressão profissional que já começa retendo.",
+  "icone": "✉️",
+  "categoria": "Reconhecimento",
+  "cor": "gold",
+  "badge": "Bônus",
+  "storage_path": "clinic-ccec725b-0fcb-4e13-b287-a5678f44e7d3/courses/30e9cae7-fb41-4c22-b758-03381c9d44e0/a6169d89-58a1-4936-98db-341dad4e4d14/05-carta-boas-vindas.pdf",
+  "id": "1Q2PdoiRZUALLvI2hosb-Wkh3C6c7cG6K"
+ }
+]
